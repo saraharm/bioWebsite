@@ -1,0 +1,42 @@
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(95, 0, 1);
+    overflow-x: hidden;
+    padding-top: 20px;
+    text-align: center;
+}
+.main {
+    margin-left: 200px;
+    Margin-right: 10px;
+    font-size: 15px;
+    padding: 0px 10px;
+}
+h1 {
+    color: #000000;
+    font-family: Optima;
+}
+h2{
+    color: #000000;
+    font-family: Optima;
+}
+p{
+    color: #000000;
+    font-family: "Trebuchet MS";
+}
+a:link{
+    color: #000000;
+    text-decoration: none;
+}
+a:hover{
+    color: rgba(50, 50, 48, 0.63);
+    text-decoration: none;
+}
+a:visited{
+    color: #b3b3b3;
+    text-decoration: none;
+}
