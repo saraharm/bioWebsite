@@ -14,6 +14,7 @@ img{
 }
 .photos{
     margin-left: 50%;
+    margin-top: -75pt;
 }
 body{
     max-width: 400pt;
